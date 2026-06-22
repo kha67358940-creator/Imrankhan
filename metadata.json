@@ -1,0 +1,6 @@
+{
+  "name": "Convert-BizzyByte",
+  "description": "A polished, high-fidelity PDF and image converter toolkit with corrected tool listings, clear copywriting, interactive file utility interfaces, and a proper privacy policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
